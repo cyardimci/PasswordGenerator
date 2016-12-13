@@ -12,3 +12,5 @@ dsfsdf
  dsfsfdsdfsd
 
  fsdfsdf
+
+ deneme issue6
